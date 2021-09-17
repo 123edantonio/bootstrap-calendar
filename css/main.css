@@ -1,0 +1,19 @@
+.row .col {
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(63, 138, 96);
+  background-color: rgb(207, 149, 230);
+}
+h1 {
+  text-align: center;
+}
+h2 {
+  float: right;
+}
+.dates {
+  padding-top: .25%;
+  padding-bottom: .25%;
+}
+.space {
+  padding-bottom: 3%;
+}
